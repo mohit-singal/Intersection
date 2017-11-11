@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43" started-at="2017-11-11T11:26:30Z" finished-at="2017-11-11T11:26:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43" started-at="2017-11-11T11:26:30Z" finished-at="2017-11-11T11:26:30Z">
+      <class name="com.test.testcase">
+        <test-method status="PASS" signature="intersection_one()[pri:0, instance:com.test.testcase@7ac7a4e4]" name="intersection_one" duration-ms="14" started-at="2017-11-11T16:56:30Z" finished-at="2017-11-11T16:56:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intersection_one -->
+        <test-method status="PASS" signature="intersection_two()[pri:1, instance:com.test.testcase@7ac7a4e4]" name="intersection_two" duration-ms="2" started-at="2017-11-11T16:56:30Z" finished-at="2017-11-11T16:56:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intersection_two -->
+        <test-method status="PASS" signature="intersection_three()[pri:2, instance:com.test.testcase@7ac7a4e4]" name="intersection_three" duration-ms="2" started-at="2017-11-11T16:56:30Z" finished-at="2017-11-11T16:56:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intersection_three -->
+      </class> <!-- com.test.testcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
